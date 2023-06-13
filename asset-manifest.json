@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aiavatar/static/css/main.f4a46efd.css",
+    "main.js": "/aiavatar/static/js/main.5a90f79a.js",
+    "static/js/787.18afb91f.chunk.js": "/aiavatar/static/js/787.18afb91f.chunk.js",
+    "index.html": "/aiavatar/index.html",
+    "main.f4a46efd.css.map": "/aiavatar/static/css/main.f4a46efd.css.map",
+    "main.5a90f79a.js.map": "/aiavatar/static/js/main.5a90f79a.js.map",
+    "787.18afb91f.chunk.js.map": "/aiavatar/static/js/787.18afb91f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4a46efd.css",
+    "static/js/main.5a90f79a.js"
+  ]
+}
